@@ -1,1 +1,2 @@
 # CRISPTAG-Fastify
+# Develop API that redirect user to google.com whenever he calls https://localhost/g.
